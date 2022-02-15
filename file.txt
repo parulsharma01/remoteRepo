@@ -1,2 +1,1 @@
-Hello Everyone
-Editing from Remote Repo for GitPullDemo
+HELLO WORLD
